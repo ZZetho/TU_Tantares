@@ -7,6 +7,8 @@
 - [Textures Unlimited](https://forum.kerbalspaceprogram.com/topic/167450-19x-textures-unlimited-pbr-shader-texture-set-and-model-loading-api/)
 - [Tantares](https://forum.kerbalspaceprogram.com/topic/73686-112x-tantares-stockalike-soyuz-and-mir-16128052024mars-expedition-wip/)
 
+**Important: this will reset all of the variants of nearly every Tantares part, but your craft (should) still work fine**
+
 # To Install:
 - Download and unzip the files
 - Put the folder "TU_Tantares", which is inside the folder you downloaded, directly into your gamedata folder
