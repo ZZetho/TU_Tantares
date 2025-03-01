@@ -19,8 +19,3 @@
 # License:
 CC BY-NC-SA 4.0
 https://creativecommons.org/licenses/by-nc-sa/4.0/
-
-# Known issues:
-- The level of detail of all of the parts is a bit low (ie: little contrast between dark / light areas), workaround: turn up the detail level in the recolour GUI.
-- The dish of the Aquila radar cannot be recoloured for technical reasons.
-- Some of the recolour areas are a bit odd as to what section they are (red / green / blue), this is also becasue of techincal reasons.
