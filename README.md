@@ -1,6 +1,6 @@
-## A collection of Textures Unlimited recolours for all of the parts from Tantares (except the solar panels)
+## A collection of Textures Unlimited recolours for the Tantares mod (except the solar panels)
 
-![promo pic i guess](https://i.imgur.com/eUaEqrK.png)
+![promo pic i guess](https://github.com/ZZetho/pics/blob/main/tr_tant_ex.PNG?raw=true)
 
 # Dependencies:
 - [Module manager](https://forum.kerbalspaceprogram.com/topic/50533-18x-112x-module-manager-423-july-03th-2023-fireworks-season/)
@@ -19,8 +19,3 @@
 # License:
 CC BY-NC-SA 4.0
 https://creativecommons.org/licenses/by-nc-sa/4.0/
-
-# Known issues:
-- The level of detail of all of the parts is a bit low (ie: little contrast between dark / light areas), workaround: turn up the detail level in the recolour GUI.
-- The dish of the Aquila radar cannot be recoloured for technical reasons.
-- Some of the recolour areas are a bit odd as to what section they are (red / green / blue), this is also becasue of techincal reasons.
