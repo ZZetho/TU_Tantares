@@ -1,4 +1,4 @@
-## Textures Unlimited recolours for the Tantares mod
+## Textures Unlimited recolours for Tantares
 
 ![promo pic i guess](https://github.com/ZZetho/pics/blob/main/tr_tant_ex.PNG?raw=true)
 
