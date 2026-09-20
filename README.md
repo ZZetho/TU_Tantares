@@ -7,7 +7,7 @@
 - [Textures Unlimited](https://forum.kerbalspaceprogram.com/topic/167450-19x-textures-unlimited-pbr-shader-texture-set-and-model-loading-api/)
 - [Tantares](https://forum.kerbalspaceprogram.com/topic/73686-112x-tantares-stockalike-soyuz-and-mir-16128052024mars-expedition-wip/)
 
-## **Note: this will reset the texture variants of nearly every Tantares part, but your craft will still work fine**
+## **Note: this will reset the texture variants of nearly every Tantares part**
 
 # To Install:
 - Download and unzip the files
